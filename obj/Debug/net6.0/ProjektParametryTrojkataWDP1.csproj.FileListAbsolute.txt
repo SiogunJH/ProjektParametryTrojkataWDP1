@@ -1,0 +1,15 @@
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ProjektParametryTrojkataWDP1.csproj.AssemblyReference.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ProjektParametryTrojkataWDP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ProjektParametryTrojkataWDP1.AssemblyInfoInputs.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ProjektParametryTrojkataWDP1.AssemblyInfo.cs
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ProjektParametryTrojkataWDP1.csproj.CoreCompileInputs.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\bin\Debug\net6.0\ProjektParametryTrojkataWDP1.exe
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\bin\Debug\net6.0\ProjektParametryTrojkataWDP1.deps.json
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\bin\Debug\net6.0\ProjektParametryTrojkataWDP1.runtimeconfig.json
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\bin\Debug\net6.0\ProjektParametryTrojkataWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\bin\Debug\net6.0\ProjektParametryTrojkataWDP1.pdb
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ProjektParametryTrojkataWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\refint\ProjektParametryTrojkataWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ProjektParametryTrojkataWDP1.pdb
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ProjektParametryTrojkataWDP1.genruntimeconfig.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektParametryTrojkataWDP1\obj\Debug\net6.0\ref\ProjektParametryTrojkataWDP1.dll
